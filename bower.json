@@ -1,0 +1,22 @@
+{
+  "name": "atividade-workflow",
+  "description": "atividade workflow",
+  "main": "index.js",
+  "authors": [
+    "yago"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curso",
+    "bootstrap",
+    "workflow"
+  ],
+  "homepage": "https://github.com/YagoMatos/atividade-workflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
